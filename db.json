@@ -1,0 +1,25 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "src": "https://i.ibb.co/NSnm5v9/shot1.png",
+        "alt": "img1",
+        "url": "http://trw21.zzz.com.ua/"
+      },
+      {
+        "id": 2,
+        "src": "https://i.ibb.co/bLHSrDK/shot3.png",
+        "alt": "img2",
+        "url": "http://trw21.zzz.com.ua/clock.html"
+      },
+      {
+        "id": 3,
+        "src": "https://i.ibb.co/M2RSksy/shot2.png",
+        "alt": "img3",
+        "url": "http://trw21-react-nav.zzz.com.ua/contacts"
+      }
+    ]
+  }
+  
+  
+  
